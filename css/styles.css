@@ -39,7 +39,7 @@ body {
   box-shadow: 0 -2px 3px 0px rgba(0, 0, 0, 0.5), 0 2px 3px 0px rgba(100, 100, 100, 0.5);
 }
 
-/*.switch>div {
+.switch>div {
   overflow: hidden;
   position: absolute;
   width: inherit;
@@ -47,7 +47,7 @@ body {
   border-radius: inherit;
 }
 
-.switch .top, .switch .bottom {
+/*.switch .top, .switch .bottom {
   list-style-type: none;
   position: absolute;
   left: 7px;
