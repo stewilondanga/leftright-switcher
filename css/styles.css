@@ -97,7 +97,7 @@ label .button {
   transition: left .5s linear, box-shadow .3s .2s linear;
 }
 
-/*label .button:after {
+label .button:after {
   display: block;
   content: '|||';
   text-align: center;
@@ -109,7 +109,7 @@ label .button {
   letter-spacing: 3px;
 }
 
-.on, .off {
+/*.on, .off {
   display: block;
   position: absolute;
   width: 20px;
