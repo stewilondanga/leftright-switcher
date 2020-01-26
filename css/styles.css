@@ -17,14 +17,14 @@ body {
   height: 1.5em;
 }
 
-/*.container {
+.container {
   width: 400px;
   height: 150px;
   margin: 10px auto;
   padding-top: 100px;
 }
 
-#switch {
+/*#switch {
   position: absolute;
   left: -9999px;
 }
