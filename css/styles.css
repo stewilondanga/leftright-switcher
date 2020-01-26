@@ -155,12 +155,12 @@ label .button:after {
   transition: left .5s linear, box-shadow .3s .2s linear;
 }
 
-/*#switch:checked+label .top {
+#switch:checked+label .top {
   transform: rotate(-4deg);
   transition: all .5s linear;
 }
 
-#switch:checked+label .bottom {
+/*#switch:checked+label .bottom {
   transform: rotate(4deg);
   transition: all .5s linear;
 }
