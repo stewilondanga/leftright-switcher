@@ -171,13 +171,13 @@ label .button:after {
   transition: all .2s .3s linear;
 }
 
-/*#switch:checked+label .off {
+#switch:checked+label .off {
   background: #F00;
   box-shadow: inset 0 0 10px 2px #000, 0 -1px 1px 1px #000, 0 1px 1px 1px #333, 0 0 30px 0 #F00;
   transition: all .2s .3s linear;
 }
 
-#switch:checked+label .on:before {
+/*#switch:checked+label .on:before {
   color: rgba(250, 250, 250, 0.3);
   transition: all .2s .3s linear;
 }
