@@ -131,7 +131,7 @@ label .button:after {
   box-shadow: inset 0 0 10px 2px #000, 0 -1px 1px 1px #000, 0 1px 1px 1px #333;
 }
 
-/*.on:before, .off:before {
+.on:before, .off:before {
   position: absolute;
   top: -30px;
   font-size: 20px;
@@ -139,7 +139,7 @@ label .button:after {
   transition: all .2s .3s linear;
 }
 
-.on:before {
+/*.on:before {
   content: 'on';
   color: #FFF;
 }
