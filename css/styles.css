@@ -55,12 +55,12 @@ body {
   transition: all .5s linear;
 }
 
-/*.switch .top {
+.switch .top {
   top: -5px;
   transform: rotate(4deg);
 }
 
-.switch .bottom {
+/*.switch .bottom {
   bottom: -5px;
   transform: rotate(-4deg);
 }
