@@ -60,12 +60,12 @@ body {
   transform: rotate(4deg);
 }
 
-/*.switch .bottom {
+.switch .bottom {
   bottom: -5px;
   transform: rotate(-4deg);
 }
 
-.switch li {
+/*.switch li {
   width: 15px;
   height: 10px;
   background: #fff;
