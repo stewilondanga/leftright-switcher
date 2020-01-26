@@ -139,12 +139,12 @@ label .button:after {
   transition: all .2s .3s linear;
 }
 
-/*.on:before {
+.on:before {
   content: 'on';
   color: #FFF;
 }
 
-.off:before {
+/*.off:before {
   content: 'off';
   color: rgba(250, 250, 250, 0.3);
 }
