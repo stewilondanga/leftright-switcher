@@ -165,13 +165,13 @@ label .button:after {
   transition: all .5s linear;
 }
 
-/*#switch:checked+label .on {
+#switch:checked+label .on {
   background: #050;
   box-shadow: inset 0 0 10px 2px #000, 0 -1px 1px 1px #000, 0 1px 1px 1px #333;
   transition: all .2s .3s linear;
 }
 
-#switch:checked+label .off {
+/*#switch:checked+label .off {
   background: #F00;
   box-shadow: inset 0 0 10px 2px #000, 0 -1px 1px 1px #000, 0 1px 1px 1px #333, 0 0 30px 0 #F00;
   transition: all .2s .3s linear;
