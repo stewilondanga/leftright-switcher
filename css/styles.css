@@ -29,7 +29,7 @@ body {
   left: -9999px;
 }
 
-/*.switch {
+.switch {
   display: block;
   position: relative;
   width: 190px;
@@ -39,7 +39,7 @@ body {
   box-shadow: 0 -2px 3px 0px rgba(0, 0, 0, 0.5), 0 2px 3px 0px rgba(100, 100, 100, 0.5);
 }
 
-.switch>div {
+/*.switch>div {
   overflow: hidden;
   position: absolute;
   width: inherit;
