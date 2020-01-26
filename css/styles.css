@@ -24,12 +24,12 @@ body {
   padding-top: 100px;
 }
 
-/*#switch {
+#switch {
   position: absolute;
   left: -9999px;
 }
 
-.switch {
+/*.switch {
   display: block;
   position: relative;
   width: 190px;
